@@ -1,0 +1,16 @@
+#firstname, #email ,#password{
+    /* color:red; */
+    display: block;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+/* #form1 {
+    /* margin-top:5px; */
+ */
+#form1 input[type='text'],input[type='password'],
+input[type='submit'],input[type='email'] {
+    display: block;
+    /* margin:3px 3px; */
+    border-radius: 6px;
+    /* padding: 8px; */
+}
